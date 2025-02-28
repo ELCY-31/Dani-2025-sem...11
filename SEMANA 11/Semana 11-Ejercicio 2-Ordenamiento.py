@@ -6,7 +6,7 @@ def bubble_sort(arr):
         for j in range(0, n-i-1):
             if arr[j] > arr[j+1]:
                 # Intercambiar si el elemento encontrado es mayor que el siguiente
-                arr[j], arr[j+1] = arr[j+1], arr[j]  # Corregido arr[j+1] en lugar de arr[1]
+                arr[j], arr[j+1] = arr[j+1], arr[j]
 
 # Función para ordenar todas las filas de la matriz
 def ordenar_matriz(matriz):
