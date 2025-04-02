@@ -4,7 +4,7 @@ INFORMACION_PERSONAL = {
     "Nombre": "Elody Escobar",
     "EDAD": "18",
     "CIUDAD": "Orellana",
-    "PROFESIÓN": "Desarrollador de software"
+    "PROFESIÓN": "Desarrolladora de software"
 }
 
 # Acceder y Modificar Valores
