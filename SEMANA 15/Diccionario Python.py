@@ -1,7 +1,7 @@
 # Crear un diccionario llamado informacion_personal
 
 INFORMACION_PERSONAL = {
-    "Nombre": "Elody Escobar",
+    "NOMBRE": "Elody Escobar",
     "EDAD": "18",
     "CIUDAD": "Orellana",
     "PROFESIÓN": "Desarrolladora de software"
